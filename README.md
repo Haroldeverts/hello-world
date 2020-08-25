@@ -1,2 +1,3 @@
 # hello-world
-creating a new repository forgithub tutorial
+creating a new repository for github tutorial
+My name is Harold
